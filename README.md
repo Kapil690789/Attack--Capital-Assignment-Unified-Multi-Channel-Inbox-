@@ -1,7 +1,7 @@
 # Unified Multi-Channel Inbox
 
 A production-ready customer communication platform that aggregates messages from SMS, WhatsApp, Email, and social media into a single, intuitive inbox.
-
+Github : https://github.com/Kapil690789/Attack--Capital-Assignment-Unified-Multi-Channel-Inbox-
 ## 🎯 Key Features
 
 - **Unified Inbox**: Manage all customer conversations across channels in one place
